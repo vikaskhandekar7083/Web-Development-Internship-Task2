@@ -102,7 +102,7 @@ Media queries and a mobile-first design approach.
 **SEO Practices 📈**
 Implementing meta tags, alt texts, and structured data for search engines.  
 
-License 📜
+##License 📜
 This project is licensed under the MIT License.
 
 MIT License
@@ -119,12 +119,12 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+📞 Contact Me
+
+LinkedIn: https://linkedin.com/in/vikas-khandekar-9233a9257
+
+GitHub: https://github.com/vikaskhandekar7083
+
+
 
 
